@@ -1,11 +1,9 @@
 # Stephanie Shields :wave:
 
-Connect: [linkedin.com/in/steph-shields](https://www.linkedin.com/in/steph-shields/)  
-Job Type: Permanent  
-Telework Work Schedule: Full-Time
-
-Desired Locations:  
-United States - Wasington, D.C., Virginia, Maryland
+Connect: [linkedin.com/in/steph-shields](https://www.linkedin.com/in/steph-shields/)    
+Job Type: Full-Time  
+Location: Remote, Hybrid  
+Desired Location(s): United States - Wasington, D.C., Virginia, Maryland
 
 ## Work Experience
 
