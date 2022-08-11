@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephanie-shields
-- 👀 I’m interested in UI Development, UX Design, Building Leadership
+- 👀 I’m interested in UX Engineering, UI Development, Product Design, Design Team Management, Building Leadership
 - 🌱 I’m currently learning Gatsby JS, CSS Grid, Executive Voice 
-- 💞️ I’m looking to collaborate on Design Systems, Community Elevation, Design-Dev Partnership
+- 💞️ I’m looking to collaborate on Design Systems, Design Community Elevation, Design-Dev Partnership
 - 📫 Reach me at https://www.linkedin.com/in/steph-shields
 
 <!---
