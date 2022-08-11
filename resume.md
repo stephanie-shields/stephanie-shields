@@ -15,7 +15,7 @@ United States - Wasington, D.C., Virginia, Maryland
 
 ### Senior Lead Technologist - 01/2020 to Present - Hours per week: 40
 
-[Brief description of the organization and Senior Lead Technologist role]: #
+<!-- Add brief description of the organization and "Senior Lead Technologist" role -->
 
 Lead UX Designer and Front End Developer for [USAspending.gov](https://www.usaspending.gov/), the official source for spending data for the U.S. Government.
 
@@ -72,52 +72,52 @@ Duration: 03/2020 - 12/2020 -->
 
 ### Lead Technologist - 01/2017 to 12/2019 - Hours per week: 40
 
-[Brief description of the organization and Lead Technologist role]: #
+<!-- Add brief description of the organization and "Lead Technologist" role -->
 
-#### Senior UI Designer and Staff Front End Developer
+Senior UI Designer and Front End Developer to build the new [Recreation.gov](https://www.recreation.gov/), the booking gateway for the nation's public lands.
 
-Product: [Recreation.gov](https://www.recreation.gov/)  
+<!-- Product: [Recreation.gov](https://www.recreation.gov/)  
 Client: Booz Allen Hamilton, U.S. Department of the Interior  
 Team Size: ~84  
-Duration: 07/2017 - 02/2020
+Duration: 07/2017 - 02/2020 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
-- Utilized modern software development tools and techniques, like DevOps, microservices, and human-centered design to build the new Recreation.gov, the booking gateway for the nation's public lands.
+- Utilized modern software development tools and techniques, like DevOps, microservices, and human-centered design principles.
 - Worked as a designer to collaborate with teammates to deliver wireframes, high-fidelity compositions, and a robust design system.
 - Worked as a front-end developer to build and style reusable react components and container layouts.
 
-#### Lead UI Designer
+Lead UI Designer for technical challenge in support of the General Services Administration (GSA) CIO Modernization and Enterprise Transformation (COMET) Blanket Purchase Agreement (BPA) request for proposal (RFP) response.
 
-Product: Technical challenge in support of the General Services Administration (GSA) CIO Modernization and Enterprise Transformation (COMET) Blanket Purchase Agreement (BPA) request for proposal (RFP) response  
+<!-- Product: Technical challenge in support of the General Services Administration (GSA) CIO Modernization and Enterprise Transformation (COMET) Blanket Purchase Agreement (BPA) request for proposal (RFP) response  
 Client: Booz Allen Hamilton  
 Team Size: ~50 overall, ~10 technical challenge team  
-Duration: 04/2019 - 07/2019 - Hours per week: 3
+Duration: 04/2019 - 07/2019 - Hours per week: 3 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
 - Lead UI Designer for Technical Challenge in awarded GSA CIO Modernization and Enterprise Transportation BPA, expected to have a ceiling value of $1.5+ Billion over 5 years.
 - In addition, awarded two of the initial four task orders worth $109M over 5 years.
 
-#### UX/UI Designer and UI Developer
+UX/UI Designer and UI Developer in support of the eRulemaking program’s [Regulations.gov](https://www.regulations.gov/) modernization effort.
 
-Product: [Regulations.gov](https://www.regulations.gov/)  
+<!-- Product: [Regulations.gov](https://www.regulations.gov/)  
 Program: eRulemaking Program  
 Client: U.S. Environmental Protection Agency  
 Team Size: ~30  
-Duration: 10/2016 - 06/2017
+Duration: 10/2016 - 06/2017 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
-- Worked as lead designer to deliver wireframes, high-fidelity compositions, and front-end development in support of the eRulemaking program’s Regulations.gov modernization effort.
+- Worked as lead designer to deliver wireframes, high-fidelity compositions, and front-end development.
 - Led discussions with subject matter experts and various agency stakeholders to conceptualize and define the new user experience.
 - Documented design process, created branding and style guide specifications, and built production-ready code components and layouts.
 
 ### Staff Technologist - 03/2015 to 12/2016 - Hours per week: 40
 
-[Brief description of the organization and Staff Lead Technologist role]: #
+<!-- Add brief description of the organization and "Staff Technologist" role -->
 
-#### UI Designer and Developer
+UI Designer and Developer for Recreation.gov Investment Support.
 
 Product: Recreation.gov Investment Support  
 Client: Booz Allen Hamilton  
@@ -128,12 +128,12 @@ Duration: 07/2016 – 10/2016
 
 - Delivered wireframes, high fidelity compositions, front-end development support and living style guide.
 
-#### UX/UI Designer and Developer
+UX/UI Designer and Developer for [myE-Verify](https://myeverify.uscis.gov/), an application maintained by the U.S. Citizenship and Immigration Services.
 
-Product: [myE-Verify](https://myeverify.uscis.gov/)  
+<!-- Product: [myE-Verify](https://myeverify.uscis.gov/)  
 Client: U.S. Citizenship and Immigration Services, U.S. Department of Homeland Security  
 Team Size: ~22  
-Duration: 11/2015 - 07/2016
+Duration: 11/2015 - 07/2016 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
