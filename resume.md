@@ -31,7 +31,7 @@ Duration: 07/2021 - Present -->
 - Enhanced design processes by updating the UI Design System to include mobile specifications and organizing team exercises for shared understanding.
 - Worked as a Frontend Developer in [React.js](https://reactjs.org/) to fix issues found in the mobile audit, building reusable code components and cleaning up code to enhance the mobile experience.
 
-Front End Developer for the U.S. Army in surge support to held build an Emerging Threat Training and Readiness training application.
+Front End Developer in surge support role to held build an Emerging Threat Training and Readiness application for the U.S. Army.
 
 <!-- Product: Emerging Threat Training and Readiness Component  
 Client: U.S. Army  
