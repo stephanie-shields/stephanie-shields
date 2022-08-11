@@ -17,57 +17,54 @@ United States - Wasington, D.C., Virginia, Maryland
 
 [Brief description of the organization and Senior Lead Technologist role]: #
 
-#### Lead UX Designer and Staff Front End Developer
+Lead UX Designer and Front End Developer for [USAspending.gov](https://www.usaspending.gov/), the official source for spending data for the U.S. Government.
 
-Product: [USAspending.gov](https://www.usaspending.gov/)  
+<!-- Product: [USAspending.gov](https://www.usaspending.gov/)  
 Program: Fiscal Service Data Transparency Support Program  
 Client: Bureau of the Fiscal Service, U.S. Department of the Treasury  
 Team Size: ~30  
-Duration: 07/2021 - Present
+Duration: 07/2021 - Present -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
 - Worked in a hybrid role as a Senior UX/UI Designer and Frontend Developer to help strategically drive product success with a focus on Mobile Optimization. Included discovery efforts such as Google Analytics and Google Lighthouse analysis, conducting a mobile audit, and sprint planning and ticket creation.
 - Enhanced design processes by updating the UI Design System to include mobile specifications and organizing team exercises for shared understanding.
-- Worked as a Frontend Developer in React.js to fix issues found in the mobile audit, building reusable code components and cleaning up code to enhance the mobile experience.
+- Worked as a Frontend Developer in [React.js](https://reactjs.org/) to fix issues found in the mobile audit, building reusable code components and cleaning up code to enhance the mobile experience.
 
-#### Staff Front End Developer
+Front End Developer for the U.S. Army in surge support to held build an Emerging Threat Training and Readiness training application.
 
-Product: Emerging Threat Training and Readiness Component  
+<!-- Product: Emerging Threat Training and Readiness Component  
 Client: U.S. Army  
 Team Size: ~38
-Duration: 04/2021 - 06/2021
+Duration: 04/2021 - 06/2021 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
-- Provided surge support as a Frontend Developer for a product team building a training application for the U.S. Army.
-- Worked in Vue.js, building reusable components and layouts.
+- Worked in [Vue.js](https://vuejs.org/), building reusable components and layouts.
 - Responsible for feature set development efforts, helping the team tackle development debt, and general bug fixes.
 
-#### Project Lead and Senior UI Designer
+Project Lead and Senior UI Designer for a Pro Bono effort to provide a refreshed and revamped marketing website for [Black Girl Ventures](https://www.blackgirlventures.org/).
 
-Product: [blackgirlventures.org](https://www.blackgirlventures.org/)  
+<!-- Product: [blackgirlventures.org](https://www.blackgirlventures.org/)  
 Client: Black Girl Ventures  
 Team Size: ~6  
-Duration: 01/2021 - 03/2021
+Duration: 01/2021 - 03/2021 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
-- Project Lead and UX Designer/Developer for a Pro Bono effort to provide a refreshed and revamped marketing website for Black Girl Ventures.
 - Worked as a Project Lead to provide project roadmap, client engagement, scheduling and communication, task management, quality management, planning and prioritization, and project timeline.
-- Worked as a UX Designer/Developer to provide support in design team collaboration tools and environment setup, wireframing, site architecture, technical evaluation, staging environment setup, website development and theme implementation, app integrations, mobile optimization, testing and quality assurance, and guidance and training.
+- Worked as a UX/UI Designer and Developer to provide support in design team collaboration tools and environment setup, wireframing, site architecture, technical evaluation, staging environment setup, website development and theme implementation, app integrations, mobile optimization, testing and quality assurance, and guidance and training.
 
-#### Lead UX/UI Designer and Staff Front End Developer
+Lead UX/UI Designer and UI Developer for the [Federal Docket Management System](https://www.fdms.gov/login), a federal wide document management system maintained by the General Services Administration.
 
-Product: [Federal Docket Management System](https://www.fdms.gov/login)  
+<!-- Product: [Federal Docket Management System](https://www.fdms.gov/login)  
 Program: eRulemaking Program  
 Client: General Services Administration  
 Team Size: ~38  
-Duration: 03/2020 - 12/2020
+Duration: 03/2020 - 12/2020 -->
 
 [Brief description of the product/project/team you worked on or supported. To include clients/customers type, impact/performance metrics and scope, and team size/composition.]: #
 
-- Lead Designer and UI Developer for FDMS.gov, a federal wide document management system.
 - Developed design strategy for application modernization effort, with a focus on continuous development and improved efficiency to design integration.
 - Worked as a Job Leader to define design team tasks and workflows, provide peer programing sessions, and organize design sprint planning and retrospectives.
 - Built a design system for the application that is accessible, reusable, mobile-friendly and easily customizable, built with the U.S. Web Design System and modern software development tools and techniques.
